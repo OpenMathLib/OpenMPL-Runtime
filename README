@@ -1,0 +1,1 @@
+OpenMPL Runtime provides a NUMA memory affinity optimization solution for multi-threaded programs. It has been embedded in OpenVML and FFTW, and you can embed it in your operator library. For details, please refer to the source code in the OpenVML project.
