@@ -1,4 +1,4 @@
-#include "runtime.h"
+#include "openmpl-runtime.h"
 static int initialized = 0;
 
 void CONSTRUCTOR OpenVML_FUNCNAME(runtime_init())

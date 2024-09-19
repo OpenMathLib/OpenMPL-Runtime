@@ -1,4 +1,4 @@
-#include "runtime.h"
+#include "openmpl-runtime.h"
 
 static unsigned int runtime_thread_num;
 
