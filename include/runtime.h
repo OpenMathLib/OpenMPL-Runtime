@@ -1,5 +1,5 @@
-#ifndef _OPENVML_RUNTIME_H_
-#define _OPENVML_RUNTIME_H_
+#ifndef _OPENMPL_RUNTIME_H_
+#define _OPENMPL_RUNTIME_H_
 
 #define _GNU_SOURCE
 
