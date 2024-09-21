@@ -1,5 +1,6 @@
 #include "openmpl-runtime.h"
 
+
 static int thread_initialized = 0;
 static openvml_numa_info_t numa_info;
 static int range[MAX_CORE + 1] = { 0 };

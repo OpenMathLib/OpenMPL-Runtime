@@ -1,5 +1,6 @@
 #include "openmpl-runtime.h"
 
+
 static unsigned int runtime_thread_num;
 
 void set_thread_num(int t_num)

@@ -1,4 +1,5 @@
 #include "openmpl-runtime.h"
+
 // if you need to use process a lot of batch, you need to define this macro. but it is very expensive !!!
 // #define BUFFER_NEED_FREE 
 
