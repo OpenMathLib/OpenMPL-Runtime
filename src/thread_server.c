@@ -1,4 +1,5 @@
-#include "runtime.h"
+#include "openmpl-runtime.h"
+
 
 static int thread_initialized = 0;
 static openvml_numa_info_t numa_info;

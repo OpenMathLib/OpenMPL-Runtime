@@ -1,5 +1,6 @@
 #define _GNU_SOURCE // only for gnu
-#include "runtime.h"
+#include "openmpl-runtime.h"
+
 
 static int mem_initialized = 0;
 int OpenVML_FUNCNAME(is_memory_init())
